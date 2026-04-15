@@ -8,6 +8,7 @@ const notes = [
   "Promoción por Pull Request",
   "Despliegue de staging en GitHub Pages",
   "Cambio visible listo para promoción, a ver si le pagan más",
+  "Agregué regla de quality a ver si jala diferente"
 ];
 
 export default function App() {
